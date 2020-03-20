@@ -1,0 +1,28 @@
+#main {
+  padding: 60px 0;
+
+  header {
+    padding: 1rem 0;
+    border-bottom: 1px solid $colour-primary;
+    background-color: $colour-primary-muted;
+
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      flex-wrap: wrap;
+
+      & > * {
+        padding: 0 1rem;
+      }
+
+      h1 {
+        font-size: 40px;
+        color: $colour-primary;
+        -webkit-text-stroke: 1px $colour-secondary;
+        text-stroke: 1px $colour-secondary;
+        text-shadow: 2px 2px 0 $colour-secondary;
+      }
+    }
+  }
+}

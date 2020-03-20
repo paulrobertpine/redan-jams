@@ -1,0 +1,88 @@
+---
+title: Wonderin’ Where I’m Bound
+artist: Tom Paxton
+---
+[Intro]
+Dm G C Am
+Dm G C
+
+       C    
+It's a long and dusty road
+       F       Em    Dm
+It's a hot and heavy load
+        G7                        C
+And the folks I meet ain't always kind
+         C
+Some are bad and some are good
+          F        Em        Dm
+Some have done the best they could
+G7                                    C
+Some have tried to ease my trouble in mind
+
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
+
+          C
+I've been wandering through this land
+     F         Em     Dm
+Just doin' the best I can
+G7                                 C
+Trying to find what I was meant to do
+        
+And the people that I see
+        F       Em     Dm
+Look as worried as can be
+       G7                            C
+And it looks like they are wanderin' too
+
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
+
+[Instrumental]
+
+      C    
+But I had a little girl one time
+        F         Em     Dm
+She had lips like cherry wine
+        G7                                 C
+And she loved me, till my head went plum insane
+          
+But I was, too blind to see
+        F         Em       Dm
+She was driftin' away from me
+       G7                               C
+And my good girl went off on a midnight train
+
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
+
+[Instrumental]
+
+       C    
+If you see me passin' by
+        F           Em     Dm
+And you sit and you wonder why
+        G7                          C
+And you wish that you were rambling too
+          
+nail your shoes to the kitchen floor
+        F      Em      Dm
+Lace'em up and bar the door
+G7                                        C
+Thank your stars for the roof that's over you
+
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
+
+  Dm             G                C                Am
+I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound
