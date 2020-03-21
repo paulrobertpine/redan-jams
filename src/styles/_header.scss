@@ -21,29 +21,28 @@
         height: 50px;
         margin-right: 1rem;
       }
-
-      span {
-        color: $colour-primary;
-        font-size: 24px;
-        transition: background-color 0.7s ease;
-
-        &:hover {
-          color: darken($colour-primary, 2%);
-        }
-      }
     }
 
-    .util-nav {
-      list-style: none;
-      font-size: 30px;
-      margin: 0;
-      padding: 0;
+    .scroll-nav {
+      width: 300px;
+      display: flex;
+      align-items: center;
+
+      .speed-slider {
+        margin-right: 30px;
+
+        .rc-slider-handle {
+          border: 0;
+          background-color: $colour-primary;
+        }
+      }
 
       button {
         background-color: transparent;
         color: $colour-primary;
         border: 0;
         padding-top: 10px;
+        font-size: 30px;
 
         &:focus {
           outline: 0;
@@ -58,5 +57,22 @@
         }
       }
     }
+
+    // .util-nav {
+    //   display: flex;
+    //   align-items: center;
+    //   list-style: none;
+    //   font-size: 30px;
+    //   margin: 0;
+    //   padding: 0;
+
+    //   .scroll-speed-label {
+    //     color: $colour-primary;
+
+    //     padding: 10px;
+    //     line-height: 2;
+    //   }
+
+    // }
   }
 }

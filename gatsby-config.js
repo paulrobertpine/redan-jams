@@ -5,12 +5,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Jams!',
-        short_name: 'Jams',
+        name: 'Redan Jams',
+        short_name: 'Redan Jams',
         start_url: '/',
-        background_color: '#1c5a7e',
-        theme_color: '#c7c41d',
-        display: 'minimal-ui',
+        background_color: '#fff',
+        theme_color: '#2BB3A5',
+        display: 'standalone',
         icon: 'src/images/musician.svg',
       },
     },
