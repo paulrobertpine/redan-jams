@@ -30,7 +30,7 @@ class Home extends React.Component {
       <Layout>
         <header>
           <div className="container">
-            <h1>Songbook</h1>
+            <h1>Redan Jams</h1>
             <h2>{filteredSongs.length} Songs</h2>
             <div className="filters">
               <label htmlFor="filter-search">Search:</label>

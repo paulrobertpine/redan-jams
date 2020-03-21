@@ -10,7 +10,7 @@ export default ({ children }) => (
   <div id="root">
     <Helmet htmlAttributes={{ lang: 'en' }}>
       <meta charSet="utf-8" />
-      <title>Songbook</title>
+      <title>Redan Jams</title>
     </Helmet>
     <Header />
     <div id="main">{children}</div>
